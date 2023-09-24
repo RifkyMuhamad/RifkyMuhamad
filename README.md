@@ -20,3 +20,5 @@
 - JavaScript
 
 ## Application Project
+- [Personal Website]() (First Application Project)
+- [Java Database Connection without ORM](https://github.com/RifkyMuhamad/JavaConnectionDatabaseApplication)
