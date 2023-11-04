@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a 2022 graduate of a vocational school majoring in automotive. However, I aspire to pursue a career as a backend or even a full-stack developer. It took me four months to learn programming and web development concepts and eventually apply them in four different programming languages
+I am a 2022 graduate of [SMKN 1 Majalengka](https://www.smkn1majalengka.sch.id) in automotive. However, I aspire to pursue a career as a backend or even a full-stack developer. It took me four months to learn programming and web development concepts and eventually apply them in four different programming languages
 
 ## What Has Been Learned
 ### Concept
