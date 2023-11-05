@@ -31,6 +31,6 @@ I am a 2022 graduate of [SMKN 1 Majalengka](https://www.smkn1majalengka.sch.id) 
 
 ## 🎯 Application Project
 - [Personal Website](https://github.com/RifkyMuhamad/DyoneStrankers.github.io) (First Application Project)
-    - [First Project Website](https://rifkymuhamad.github.io/DyoneStrankers.github.io/html/DyoneStrankers.html)
+    - [First Project Website](https://rifkymuhamad.github.io)
 - [Java Database Connection without ORM](https://github.com/RifkyMuhamad/JavaConnectionDatabaseApplication)
 - [Node JS Fullstack Login Form](https://github.com/RifkyMuhamad/NodeJSJWTAuthApp)
