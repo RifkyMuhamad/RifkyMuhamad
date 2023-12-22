@@ -9,28 +9,25 @@ I am a 2022 graduate of [SMKN 1 Majalengka](https://www.smkn1majalengka.sch.id) 
 
 ## 📌 What Has Been Learned
 ### 🧩 Concept
-- [Basic Programming]()
-- [Object Oriented Programming]()
-- [Data Stucture]()
-- [Unit Testing]()
-- [Validation]()
-- [Logging]()
-- [Thread and Asynchronus]()
-- [Database]()
+- Basic Programming
+- Object Oriented Programming
+- Data Stucture
+- Unit Testing
+- Validation
+- Logging
+- Thread and Asynchronus
+- Database
 - [SQL](https://github.com/RifkyMuhamad/SQL)
 - Database Connection
-    - [Without ORM]()
-    - [With ORM]()
+    - Without ORM
+    - With ORM
 
 ### 📕 Programming Language
 - Java
 - JavaScript
 
-## 📚 List of Library or Framework
-[Click this](https://github.com/RifkyMuhamad/LibraryOrFrameworkList)
-
 ## 🎯 Application Project
-- [Personal Website](https://github.com/RifkyMuhamad/DyoneStrankers.github.io) (First Application Project)
-    - [First Project Website](https://rifkymuhamad.github.io)
+- [Personal Website]([https://github.com/RifkyMuhamad/DyoneStrankers.github.io](https://github.com/RifkyMuhamad/DeprecatedRifkyMuhamad.github.io)) (First Application Project)
+- Personal Website [rifkymuhamad.github.io](https://rifkymuhamad.github.io)
 - [Java Database Connection without ORM](https://github.com/RifkyMuhamad/JavaConnectionDatabaseApplication)
 - [Node JS Fullstack Login Form](https://github.com/RifkyMuhamad/NodeJSJWTAuthApp)
